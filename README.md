@@ -58,9 +58,6 @@ git clone https://github.com/atulranjan45/college-predictor.git
 cd college-predictor
 
 2. Backend Setup
-bash
-Copy
-Edit
 cd backend
 npm install
 npm start
