@@ -6,9 +6,9 @@ A full-stack web application that predicts suitable colleges for students based 
 
 ## 🚀 Features
 
-- 🎯 Predict colleges based on entrance exam rank (like JEE Main).
+- 🎯 Predict colleges based on entrance exam rank (MHT CET).
 - 📊 Filters based on category (General, OBC, SC, ST, etc.), gender, and home state.
-- 🗺️ Region-wise college sorting (NITs, IIITs, GFTIs).
+- 🗺️ Region-wise college sorting (COEP, PICT, PCCOE, DYP).
 - 🧠 Smart algorithm for more accurate predictions.
 - 🔍 Real-time results with a clean, responsive UI.
 
